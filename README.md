@@ -75,14 +75,3 @@ java -cp bin tests.SalesDataAnalyzerTest
    2.2.  Total revenue by item: ...
    2.3.  top items by revenue: ...
    2.4.  Test pass/fail messages produced by the test harness (the project uses a simple custom harness which prints result lines).
-
-
-## Deliverables checklist (required by the challenge)
-
-Per the challenge instructions, make sure your repository includes the following and that they are easy to find in the top-level Assignment folder:
-
- 1. Public GitHub repository URL (add this README and paste the URL in any submission forms).
- 2. Complete source code for both assignments (present under assignment1/ and assignment2/).
- 3. Unit tests for analysis methods (tests are present under src/tests/ for each assignment).
- 4. README with setup instructions and sample output — this top-level README fulfills that requirement (and each assignment has its own README).
- 5. Results printed to console — the apps/tests print results during execution.
