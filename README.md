@@ -71,7 +71,11 @@ java -cp bin tests.SalesDataAnalyzerTest
 ## Expected outputs
 1. Compilation: no output on success (javac is silent if there are no errors).
 2. Running tests / apps: you should see console output from the test harness and analysis app, e.g. messages like:
+   
    2.1.  Loaded N records from sales.csv
+   
    2.2.  Total revenue by item: ...
+   
    2.3.  top items by revenue: ...
+   
    2.4.  Test pass/fail messages produced by the test harness (the project uses a simple custom harness which prints result lines).
